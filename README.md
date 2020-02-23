@@ -11,6 +11,8 @@ But first the agenda:
 
 As soon as I get the permission and the slidedeck from the speakers, I will publish them here:
 
+[KeyNote ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Keynote_IOT_AI_Summit.pdf), Contact: Chase Hawkins: <Chase.Hawkins@microsoft.com>
+<br>
 [Intel: Open Vino & Azure IOT Edge](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/masterIntelOpenVINO_MicrosoftAI_IoTWorkshop.pdf), Contact: Roy Allela: <roy.m.allela@intel.com> and Christian Donitzky: <christian.donitzky@intel.com>   <br>
 [NVIDIA's presentation on AI & IOT Edge](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/GPU_Accelerated_Analytics_Azure_IoT.pdf), Contact: Dr. Ulrich Knechtel: <uknechtel@nvidia.com>,  Teresa Conceicao: <tconceicao@nvidia.com> <br>
 [HPE, Intel and Microsoft Industrial Architecture](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/HPE_INTEL_MSFT_industrial_architecture.pdf), Contact: Jochen Mohr <Jochen.Mohr@HPE.com>, Axel Dittmann <Axel.Dittmann@Microsoft.com> <br>
