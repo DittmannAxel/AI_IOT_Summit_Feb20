@@ -28,6 +28,8 @@ IOT Update - __NDA__ session, Contact: Vitaliy Slepakov directly <Vitaliy.Slepak
 <br>
 [Edge platform overview ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/EdgePlattformOverview_AI_IoTSummit.pdf), Contact: Alexander Ortha <Alexander.Ortha@Microsoft.com>
 <br>
+[TensorFlow as a Service - AI Update ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/TensorFlow_as_a_Service.pdf), Contact: Sascha Dittmann <Sascha.Dittmann@Microsoft.com>
+<br>
 
 
 
