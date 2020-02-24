@@ -20,9 +20,12 @@ As soon as I get the permission and the slidedeck from the speakers, I will publ
 <br>
 [ERNW: IOT Security ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/ERNW_IoTSec_v1.0.pdf), Contact: Christoph Klaasen: <cklaassen@ernw.de>
 <br>
-IOT Update - __NDA__ session, Contact: Vitaliy Slepakov directly: <Vitaliy.Slepakov@Microsoft.com>
+IOT Update - __NDA__ session, Contact: Vitaliy Slepakov directly <Vitaliy.Slepakov@Microsoft.com>
 <br>
-
+[Schaeffler Technologies AG & Co. KG: Event driven industrial IOT ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/SchaefflerAIIoT_Summit310120.pdf), Contact: Dr. Hans Fleischner <fleishas@schaeffler.com>, Bertram Holzer <holzebrt@schaeffler.com>
+<br>
+[Azure Synapse & DataLake Architekturen ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Synapse_ADLSArchitekturen.pdf), Contact: Ruediger Schickhaus: <Ruediger.Schickhaus@Microsoft.com>
+<br>
 
 
 
