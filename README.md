@@ -22,9 +22,9 @@ As soon as I get the permission and the slidedeck from the speakers, I will publ
 <br>
 IOT Update - __NDA__ session, Contact: Vitaliy Slepakov directly <Vitaliy.Slepakov@Microsoft.com>
 <br>
-[Schaeffler Technologies AG & Co. KG: Event driven industrial IOT ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Schaeffler_AIIoT_Summit310120_p2.pdf), Contact: Dr. Hans Fleischner <fleishas@schaeffler.com>, Bertram Holzer <holzebrt@schaeffler.com>
+[Schaeffler Technologies AG & Co. KG: Event driven industrial IOT ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Schaeffler_AIIoT_Summit310120_p2.pdf), Contact: Dr. Hans Fleischmann <fleishas@schaeffler.com>, Bertram Holzer <holzebrt@schaeffler.com>
 <br>
-[Azure Synapse & DataLake Architekturen ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Synapse_ADLSArchitekturen.pdf), Contact: Ruediger Schickhaus <Ruediger.Schickhaus@Microsoft.com>
+[Azure Synapse & DataLake Architectures ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Synapse_ADLSArchitekturen.pdf), Contact: Ruediger Schickhaus <Ruediger.Schickhaus@Microsoft.com>
 <br>
 [Edge platform overview ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/EdgePlattformOverview_AI_IoTSummit.pdf), Contact: Alexander Ortha <Alexander.Ortha@Microsoft.com>
 <br>
