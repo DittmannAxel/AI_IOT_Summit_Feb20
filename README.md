@@ -32,7 +32,8 @@ IOT Update - __NDA__ session, Contact: Vitaliy Slepakov directly <Vitaliy.Slepak
 <br>
 [TensorFlow as a Service - AI Update ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/TensorFlow_as_a_Service.pdf), Contact: Sascha Dittmann <Sascha.Dittmann@Microsoft.com>
 <br>
-
+[Azure Data Explorer Introduction ](https://github.com/DittmannAxel/AI_IOT_Summit_Feb20/blob/master/Azure_Data_Explorer_Introduction.pdf), Contact: Hans-Peter Bareiner <habarein@microsoft.com>
+<br>
 
 
 
